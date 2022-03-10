@@ -19,9 +19,11 @@
   {% for project in projects.assignments %}
     <div class="item">
         
-        <img class="projectimage" src="{{ site.baseurl }}/assets/images/{{ projects.assignments.projectimage }}" alt="project image" />
+        
 
       <span class="project-title">
+        <img class="projectimage" src="{{ site.baseurl }}/assets/images/{{ projects.assignments.title.projectimage }}" alt="project image" />
+        <p><br></p>
         {% if project.link %}
         <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
         {% else %}
