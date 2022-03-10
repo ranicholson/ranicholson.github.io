@@ -4,7 +4,7 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: R. Allen Nicholson
@@ -48,8 +48,8 @@ projects:
     title: Projects
     assignments:
       - title: Tulsa Maps
-        projectimage: tulsamapimage.jpg
         link: "http://tulsamaps.herokuapp.com/"
+        projectimage: tulsamapimage.jpg
         tagline: "Tulsa Maps is a web mapping platform that utilizes Google Maps API as well as our custom database to display local businesses to the downtown Tulsa area."
 
       - title: Simple Shell in C
