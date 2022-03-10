@@ -47,11 +47,13 @@ education:
 projects:
     title: Projects
     assignments:
+        projectimage: tulsamapimage.jpg
       - title: Tulsa Maps
         link: "http://tulsamaps.herokuapp.com/"
         projectimage: tulsamapimage.jpg
         tagline: "Tulsa Maps is a web mapping platform that utilizes Google Maps API as well as our custom database to display local businesses to the downtown Tulsa area."
 
+        projectimage: tulsamapimage.jpg
       - title: Simple Shell in C
         projectimage:
         link: "https://github.com/ranicholson/simple_shell"
