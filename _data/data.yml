@@ -18,35 +18,22 @@ sidebar:
     codewars:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
-    languages:
-      - idiom: English
-        level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Gaming
         link:
 
-      - item: Snowboarding
+      - item: DnD
         link:
 
       - item: Cooking
         link:
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Experienced leader and customer service professional with a background in multiple industries. 
+      Trying to get a start in software development. Completing the two-year program at Holberton 
+      in April 2022. The program has been intense, but I discovered a love for coding as a result.
 education:
     - degree: MSc in Computer Science
       university: University of London
