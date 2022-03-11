@@ -53,7 +53,7 @@ projects:
         tagline: "Tulsa Maps is a web mapping platform that utilizes Google Maps API as well as our custom database to display local businesses to the downtown Tulsa area."
 
       - title: Simple Shell in C
-        projectimage:
+        projectimage: tulsamapimage.jpg
         link: "https://github.com/ranicholson/simple_shell"
         tagline: "First real project as beginners. Trying our hardest to make a solid simple shell."
 
